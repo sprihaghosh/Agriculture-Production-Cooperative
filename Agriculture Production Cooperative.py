@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 11 23:44:50 2020
-
-@author: HP
-"""
 import pandas as pd#to create tables
 pd.set_option("display.max_columns",None,"display.width", None)
 import mysql.connector as sqltor
